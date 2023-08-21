@@ -1,4 +1,4 @@
-## Bem vindo! 👋
+## Bem vindo(a)! 👋
 
 **Este é o repositório utilizando pela equipe da SAF/SES:**
 
